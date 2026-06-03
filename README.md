@@ -42,11 +42,27 @@ It is designed for:
 C-Projects-Roadmap/
 │
 ├── 01-Beginner/
-│   ├── calculator
+│   ├── Calculator (add, subtract, multiply, divide)
 │   ├── number-guessing-game
 │   ├── tic-tac-toe
 │   ├── student-grade-system
-│   └── password-generator
+│   |── password-generator
+|   |__ Odd or Even Checker
+|   |__ Temperature Converter (C ↔ F)
+|   |__ Greatest of 3 numbers
+|   |__ Multiplication Table Generator
+|   |__ Leap Year Checker
+|   |__ Star patterns (triangle, pyramid)
+|   |__ Number patterns-1
+|   |__ Number patterns-2
+|   |__ Number patterns-3
+|   |__ Number patterns-4
+|   |__ Number patterns-5
+|   |__ Pascal’s Triangle (basic version)
+|   |__ Fibonacci series generator
+|   |__ Prime number checker
+|   |__ Prime numbers in range
+|
 │
 ├── 02-Intermediate/
 │   ├── library-management-system
